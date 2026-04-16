@@ -67,7 +67,7 @@ templates = {
 
 # 3. 生成语料（带数据增强）
 corpus = []
-sentence_count = 600  # 生成300条
+sentence_count = 600  # 生成600条
 
 for i in range(sentence_count):
     food = random.choice(list(food_tags.keys()))
