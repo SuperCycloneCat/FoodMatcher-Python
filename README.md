@@ -8,7 +8,7 @@
 
 # 环境
 
-使用Anadaconda
+使用Anaconda
 
 `conda install python`
 
